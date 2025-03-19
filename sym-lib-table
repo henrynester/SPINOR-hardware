@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "DRV8300D")(type "KiCad")(uri "${KIPRJMOD}/lib/DRV8300D.kicad_sym")(options "")(descr ""))
+)
