@@ -1246,7 +1246,7 @@
   (symbol (lib_id "power:VDD") (at 212.09 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4be08ea4-1c33-4254-b22c-a8642fe6aaf6)
-    (property "Reference" "#PWR0110" (id 0) (at 212.09 100.33 0)
+    (property "Reference" "#PWR0109" (id 0) (at 212.09 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (id 1) (at 212.09 91.44 0))
